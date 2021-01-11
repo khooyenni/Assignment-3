@@ -151,10 +151,6 @@ public class Assignment3 {
 		System.out.println("Please come again and thank you for choosing us. ");
 		
 	}
-	
-}
 
-
-	}
 
 }
